@@ -1,0 +1,18 @@
+@font-face {
+	font-family: Quicksand;
+	src: url('../fonts/Quicksand-Regular.woff') format('woff');		 
+}
+
+@font-face {
+	font-family: Recursive;
+	src: url('../fonts/Recursive-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: Recursive Monospace;
+	src: url('../fonts/Recursive_Monospace-Regular.woff') format('woff');		 
+}
+@font-face {
+	font-family: RobotoSlab;
+	src: url('../fonts/RobotoSlab-Regular.woff') format('woff'),
+	     url('../fonts/RobotoSlab-Medium.woff') format('woff');	 
+}
